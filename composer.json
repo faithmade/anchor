@@ -1,0 +1,8 @@
+{
+	"name": "faithmade/anchor",
+	"type": "wordpress-theme",
+	"description": "WordPress child theme for Rock",
+	"require": {
+		"composer/installers": "v1.0.21"
+	}
+}
