@@ -1,1 +1,1 @@
-* Anchor Theme
+## Anchor Theme
